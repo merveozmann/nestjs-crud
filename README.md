@@ -84,7 +84,7 @@ To run the application
 ```
 
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://github.com/merveozmann/nestjs-crud/blob/master/swagger.PNG)
 
   
 
